@@ -1,0 +1,18 @@
+PODS:
+  - Kingfisher (3.10.2)
+  - ModelMapper (6.0.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Kingfisher (~> 3.0)
+  - ModelMapper
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Kingfisher: 7297492bf8cec9b2e2dee3519f2219948580d98e
+  ModelMapper: 3596a82f26c43491f6a8d3a00bcdba6ba0e62a93
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 727ba929b01843139714f9eae0f88d3f4d5a0d47
+
+COCOAPODS: 1.2.1
