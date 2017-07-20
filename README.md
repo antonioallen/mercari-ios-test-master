@@ -3,10 +3,10 @@ For Technical interview
 
 ## Description
 
-Portrait:
+### Portrait
 ![](result1.png)
 
-Landscape:
+### Landscape
 ![](result2.png)
 
 - I decided to use Swift for my language as it is the option I was most comfortable with.
